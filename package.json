@@ -1,0 +1,11 @@
+{
+  "name": "react-native-expo-demos",
+  "version": "1.0.0",
+  "description": "App React Navet And Expo demo 1 Aragon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "José Luis Aragón Cervantes",
+  "license": "ISC"
+}
