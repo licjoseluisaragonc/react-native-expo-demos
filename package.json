@@ -1,11 +1,19 @@
 {
   "name": "react-native-expo-demos",
   "version": "1.0.0",
-  "description": "App React Navet And Expo demo 1 Aragon",
+  "description": "LoginAccesoDB_1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/licjoseluisaragonc/react-native-expo-demos.git"
+  },
   "author": "José Luis Aragón Cervantes",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/licjoseluisaragonc/react-native-expo-demos/issues"
+  },
+  "homepage": "https://github.com/licjoseluisaragonc/react-native-expo-demos#readme"
 }
