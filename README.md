@@ -1,6 +1,4 @@
-# react-native-expo-demos
-Proeycto con react Native-Expo-EJEMPOS JOSE LUIS ARAGON
-En este reppositorio vamos a integrar las herramientas de desarrollo para React-native junto con la herramienta EXPO y usaremos las herramientas virtuales de depuración para android e IOS.
+Bien vensos a mi repositorio de GigHub, een está seccion muestro el manejo de desarrol en JavaScript usando React_Native junto con Conexiones SQL a mi base de datos de ejemplo para crear una App de login de acceso a aplicativos portatiles.
 
-realizaremos un programa basado en login junto con un catálogo de artículos demostrando lacreación de listas con flex y un poco de areglos personaliado de entorno junto con la creación de estimos personalizados en lugar de CSS que ya no se usa en esta versión de React.
-
+Atte. 
+Lic. José Luis Aragon Cervantes
